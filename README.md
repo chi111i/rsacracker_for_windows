@@ -5,7 +5,7 @@ rsacracker windows打包版本
 
 ![图片](https://github.com/user-attachments/assets/ce54c7c0-85f0-4324-9792-3c76f0cc75ab)
 # 使用
-安装 https://developer.microsoft.com/zh-cn/windows/downloads/windows-sdk/ 和 openssl-win64 并加入环境变量
+安装 https://developer.microsoft.com/zh-cn/windows/downloads/windows-sdk/ 和 https://slproweb.com/products/Win32OpenSSL.html 并加入环境变量
 
 `rsacracker -r data.txt`
 
